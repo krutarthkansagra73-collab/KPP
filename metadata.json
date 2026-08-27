@@ -1,0 +1,6 @@
+{
+  "name": "Just A Call Away",
+  "description": "A deeply personal, beautiful, and emotional Raksha Bandhan digital memory book crafted by Krutarth for his sisters Priya and Prisha.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
